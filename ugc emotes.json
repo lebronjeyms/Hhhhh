@@ -1,31 +1,4 @@
-[
-  
-  {
-    "id": 1,
-    "name": "Tall run",
-    "animationid": "rbxassetid://128364104022657"
-  },
-  {
-    "id": 2,
-    "name": "Be tall entity",
-    "animationid": "rbxassetid://120118338498304"
-  },
-  {
-    "id": 3,
-    "name": "Tall walk",
-    "animationid": "rbxassetid://71303649590318"
-  },
-  {
-    "id": 4,
-    "name": "tall",
-    "animationid": "rbxassetid://114353590132838"
-  },
-  {
-    "id": 5,
-    "name": "tall idle",
-    "animationid": "rbxassetid://130049228127640"
-  },
-  {
+ {
     "id": 105626236326216,
     "name": "Nagi Sieshiro",
     "animationid": "rbxassetid://98205398270519"
@@ -42,6 +15,61 @@
   },
   {
     "id": 83162057339151,
+    "name": "Big Hand Dislike",
+    "animationid": "rbxassetid://80851161781256"
+  },
+  {
+    "id": 107915721095483,
+    "name": "Big Hand Nuh Uh",
+    "animationid": "rbxassetid://82374480951071"
+  },
+  {
+    "id": 87831798687544,
+    "name": "Finger Point Big Hand",
+    "animationid": "rbxassetid://81100102810594"
+  },
+  {
+    "id": 95236270652629,
+    "name": "Big Hand Stop",
+    "animationid": "rbxassetid://106930634237455"
+  },
+  {
+    "id": 134066809425449,
+    "name": "Witches Cauldron",
+    "animationid": "rbxassetid://88901875638984"
+  },
+  {
+    "id": 80607801289454,
+    "name": "Rakai Dance",
+    "animationid": "rbxassetid://95189796404793"
+  },
+  {
+    "id": 129956683216211,
+    "name": "Needy Shake Dance",
+    "animationid": "rbxassetid://98964524032662"
+  },
+  {
+    "id": 74308052301228,
+    "name": "SHAKE THAT THANG",
+    "animationid": "rbxassetid://88285541926517"
+  },
+  {
+    "id": 129637389787927,
+    "name": "Dancing with your eyes closed",
+    "animationid": "rbxassetid://117991470645633"
+  },
+  {
+    "id": 93182335662228,
+    "name": "kitty",
+    "animationid": "rbxassetid://104469571003624"
+  },
+  {
+    "id": 81776969830504,
+    "name": "World Is Mine",
+    "animationid": "rbxassetid://90626053900827"
+  },
+  {
+    "id": 119017223085758,
     "name": "Big Hand Dislike",
     "animationid": "rbxassetid://80851161781256"
   },
